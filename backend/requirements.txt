@@ -1,0 +1,13 @@
+langgraph
+langchain-ollama
+neo4j
+fastapi
+uvicorn
+python-dotenv
+python-pptx
+pypdf
+docx2pdf
+python-multipart
+python-docx
+langchain-community
+docx2txt
