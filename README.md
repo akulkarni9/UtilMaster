@@ -4,11 +4,11 @@
 
 ## ✨ Features
 
-- 📊 **PowerPoint Tools**: Analyze presentations and automatically fix issues
-- 📄 **PDF Compression**: Reduce file sizes while preserving quality  
-- 📝 **Word to PDF**: Convert documents instantly
-- 🔍 **GraphRAG**: Search uploaded files using natural language
-- 💬 **Context-Aware Chat**: Conversational interface with memory
+- **PowerPoint Tools**: Analyze presentations and automatically fix issues
+- **PDF Compression**: Reduce file sizes while preserving quality  
+- **Word to PDF**: Convert documents instantly
+- **GraphRAG**: Search uploaded files using natural language
+- **Context-Aware Chat**: Conversational interface with memory
 
 ## 🏗️ Architecture
 
