@@ -192,8 +192,9 @@ curl http://localhost:11434/api/tags
 
 ## 📖 Documentation
 
-- [LinkedIn Article Part 1](LINK) - Architecture & Tech Stack
-- [LinkedIn Article Part 2](LINK) - Development Journey (11 Phases)
+- [LinkedIn Article Part 1](https://www.linkedin.com/pulse/building-utilmaster-local-first-ai-utility-platform-part-kulkarni-fbrvc/) - Architecture & Tech Stack
+- [LinkedIn Article Part 2](https://www.linkedin.com/pulse/building-utilmaster-11-phases-from-zero-production-part-ajay-kulkarni-jdsac/) - Development Journey (11 Phases)
+- [LinkedIn Article Part 3](https://www.linkedin.com/pulse/building-utilmaster-setup-guide-future-vision-part-33-ajay-kulkarni-ptufc/) - Setup Guide & Future Vision
 
 ## 🎯 Use Cases
 
@@ -220,8 +221,8 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## 👤 Author
 
 **Ajay Kulkarni**
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- LinkedIn: [Ajay Kulkarni](https://linkedin.com/in/akulkarni9)
+- GitHub: [@akulkarni9](https://github.com/akulkarni9)
 
 ---
 
