@@ -2,6 +2,9 @@
 
 > Local-first AI utility platform with multi-agent intelligence and GraphRAG
 
+![UtilMaster Interface](docs/images/utilmaster-ui-screenshot.png)
+*UtilMaster's glassmorphism interface showcasing multi-agent capabilities*
+
 ## ✨ Features
 
 - **PowerPoint Tools**: Analyze presentations and automatically fix issues
